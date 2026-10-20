@@ -1,0 +1,6 @@
+{
+  "name": "NEET NCERT 30-MCQ Master",
+  "description": "High-yield, 100% NCERT-based 30-MCQ practice test generator and simulation portal for NEET Medical Entrance (Physics, Chemistry, Botany, Zoology) with line-by-line textbook references and OMR exam mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
